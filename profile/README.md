@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/oneiuz/.github/main/profile/banner.png" alt="ONEi Banner" />
-</p>
-
 # 🌐 ONEi
 
 **ONEi (One Integration for All)** — это open-source платформа для интеграций.  
